@@ -3,12 +3,12 @@
       {
          "id":1,
          "title":"Go to pet store.",
-         "completed":false
+         "completed":true
       },
       {
          "id":2,
          "title":"Buy bird seeds.",
-         "completed":false
+         "completed":true
       },
       {
          "id":3,
